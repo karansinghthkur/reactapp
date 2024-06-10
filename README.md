@@ -1,4 +1,4 @@
-Sure, here’s the README in GitHub code format with the appropriate markdown syntax:
+Here's the README in GitHub code format with the appropriate markdown syntax:
 
 ```markdown
 # Basic React App with TypeScript, Vite, and Bootstrap
