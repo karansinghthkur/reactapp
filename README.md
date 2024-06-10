@@ -22,7 +22,7 @@ This project is a basic React application configured with TypeScript, built usin
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-ts-vite-bootstrap.git
+   git clone https://github.com/karansingthkur/reactapp.git
    cd react-ts-vite-bootstrap
    ```
 
